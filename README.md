@@ -1,6 +1,6 @@
 # Hello, world! I'm Sanjay S 🙌
 
-I'm a CSE first year undergrad student at VITC, and I'm fascinated by AI, ML and gen AI. I enjoy learning new things every day about these fields and experimenting with different projects and challenges.
+I'm a CSE second year undergrad student at VITC, and I'm fascinated by AI, ML and gen AI. I enjoy learning new things every day about these fields and experimenting with different projects and challenges.
 
 ## A little more about me 😎
 
@@ -10,7 +10,7 @@ I'm a CSE first year undergrad student at VITC, and I'm fascinated by AI, ML and
 - ❓ Ask me anything about AI, ML and gen AI
 - 📧 How to reach me: ssanjay0614@gmail.com
 - 🧑 Pronouns: he/him
--  ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
+- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
 ## My socials 📱
 
