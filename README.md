@@ -1,6 +1,6 @@
 # Hello, world! I'm Sanjay S 🙌
 
-I'm a CSE second year undergrad student at VIT Chennai, and I'm fascinated by AI, ML and gen AI. I enjoy learning new things every day about these fields and experimenting with different projects and challenges.
+I'm a CSE third year undergrad student at VIT Chennai, and I'm fascinated by AI, ML and gen AI. I enjoy learning new things every day about these fields and experimenting with different projects and challenges.
 
 ## A little more about me 😎
 
